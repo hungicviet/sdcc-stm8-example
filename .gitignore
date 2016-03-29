@@ -6,3 +6,6 @@
 *.rel
 *.rst
 *.sym
+TEMP.H
+build/
+firmware/
